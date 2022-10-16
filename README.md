@@ -1,0 +1,1 @@
+# ogrenme-gelistirme
