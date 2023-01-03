@@ -1,0 +1,29 @@
+{
+  "name": "celalcan",
+  "version": "1.0.0",
+  "description": "bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Celalcan Hacıhasanoğlu",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.8.2", 
+    "nodemailer": "^6.8.0",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "cli": "^1.0.1",
+    "webpack": "^5.75.0"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/celalcan/ogrenme-gelistirme.git"
+  }
+}
