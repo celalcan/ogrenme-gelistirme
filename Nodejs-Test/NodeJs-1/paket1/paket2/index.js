@@ -6,3 +6,5 @@ console.log("index2");
 
 //deneme3
 //deneme4
+
+//test
