@@ -1,21 +1,15 @@
 {
-  "name": "ogrenme-gelistirme",
+  "name": "webpack",
   "version": "1.0.0",
   "description": "",
-  "main": "film.js",
+  "main": "webpack.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/celalcan/ogrenme-gelistirme.git"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "webpack --watch"
+   
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/celalcan/ogrenme-gelistirme/issues"
-  },
-  "homepage": "https://github.com/celalcan/ogrenme-gelistirme#readme",
   "devDependencies": {
     "@babel/core": "^7.20.12",
     "@babel/polyfill": "^7.12.1",
