@@ -23,8 +23,13 @@
 
 //Tek tek yazmak yerine export edilen her şeyi almak
 
-import * as module1 from "./module1.js";
+// import * as module1 from "./module1.js";
 
 // console.log(module1);
-console.log(module1.employee.salary);
-module1.Person.Test();
+// console.log(module1.employee.salary);
+// module1.Person.Test();
+
+//Default import
+
+import Deneme from "./module1.js";
+Deneme.deneme();

@@ -36,3 +36,15 @@ export const employee = {
     name: "Celaclan",
     salary:25000
 }
+
+// export default class Deneme{
+//     static deneme(){
+//         console.log("Default Deneme");
+//     }
+// }
+
+
+//Önce uygulayıp sonra export edebiliriz aşağıdaki gibi
+const  denemeVal ="Deneme Değeri";
+
+export default denemeVal;
