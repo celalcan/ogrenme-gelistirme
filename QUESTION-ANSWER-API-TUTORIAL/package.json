@@ -1,0 +1,24 @@
+{
+  "name": "question-answer-tutorial",
+  "version": "1.0.0",
+  "description": "Express - Question Answer Api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celalcan/ogrenme-gelistirme.git"
+  },
+  "keywords": [
+    "express",
+    "rest",
+    "api"
+  ],
+  "author": "Celalcan Hacıhasanoğlu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/celalcan/ogrenme-gelistirme/issues"
+  },
+  "homepage": "https://github.com/celalcan/ogrenme-gelistirme#readme"
+}
